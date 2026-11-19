@@ -9,3 +9,7 @@ publish/
 *.exp
 *.lib
 GlassEffect.dll
+
+# Python bytecode from the helper scripts under media/
+__pycache__/
+*.pyc
